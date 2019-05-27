@@ -1,7 +1,7 @@
 module.exports = {
 	siteMetadata: {
-		title: "netoani.com",
-		description: "Itai Steinherz's personal website"
+		title: "gatsby-hello-world",
+		description: "Gatsby hello world blog"
 	},
 	plugins: [
 		"gatsby-transformer-remark",
