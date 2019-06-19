@@ -1,6 +1,7 @@
 {
 	"name": "gatsby-hello-world",
 	"version": "1.0.0",
+	"private": true,
 	"description": "Gatsby hello world blog",
 	"license": "MIT",
 	"repository": "itaisteinherz/gatsby-hello-world",
